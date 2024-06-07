@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">application_18</string>
+    <string name="load">Загрузить</string>
+    <string name="save">Сохранить</string>
+    <string name="enter_to_screen">Войти в аккаунт</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="tasks">Задачи</string>
+    <string name="name_title">Введите заголовок задачи</string>
+    <string name="name_subtitle">Введите подзаголовок задачи</string>
+    <string name="back_to_task_screen">Вернуться назад</string>
+</resources>
